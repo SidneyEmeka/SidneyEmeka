@@ -11,7 +11,7 @@ I'm a passionate Full Stack Developer who loves solving problems with codes and 
 
 ## Skills
 - 💻 Full Stack Development
-- 🚀 C#/.NET | JavaScript |  Node.js 
+- 🚀 C#/.NET | JavaScript  
 - 🌐 HTML | CSS | SASS | Bootstrap
 - ⚙️ Git | GitHub | VSCode
 - 📱 Responsive Web Design
