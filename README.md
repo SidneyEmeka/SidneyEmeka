@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Sidney Emeka
+# Hi there 👋, I'm Sidswipe
 
 
 I'm a passionate Full Stack Developer who loves solving problems with codes and building awesome projects. Welcome to my GitHub profile!
