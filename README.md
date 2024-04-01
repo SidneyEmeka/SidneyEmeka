@@ -17,5 +17,5 @@ I'm a passionate Full Stack Developer who loves solving problems with codes and 
 <img alt="My Stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=SidneyEmeka&show_icons=true&theme=transparent"/>
 <img alt="Top Langs" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyEmeka&layout=compact"/>
 
-## Thanks for Visiting 🚀
+
 
