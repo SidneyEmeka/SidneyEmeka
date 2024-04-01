@@ -14,11 +14,8 @@ I'm a passionate Full Stack Developer who loves solving problems with codes and 
 - 📱 Responsive Web Design
 
 
-<img alt="My Stats" src ="https://github-readme-stats.vercel.app/api?username=SidneyEmeka&show_icons=true&theme=transparent"/>
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyEmeka&layout=compact"/>
-
-## Let's Connect
-Feel free to connect with me on [LinkedIn](https://ng.linkedin.com/in/ceze-nnaemeka) or [Twitter](https://twitter.com/sidswipe). I'm always open to collaborate!
+<img alt="My Stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=SidneyEmeka&show_icons=true&theme=transparent"/>
+<img alt="Top Langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyEmeka&layout=compact"/> <br>
 
 
 ### Thanks for visiting! 🚀
