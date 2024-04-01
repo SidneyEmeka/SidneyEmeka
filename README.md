@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm Sidswipe
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidneyEmeka)](https://github.com/SidneyEmeka/github-readme-stats)
 I'm a passionate Full Stack Developer who loves solving problems with codes and building awesome projects. Welcome to my GitHub profile!
 
 
