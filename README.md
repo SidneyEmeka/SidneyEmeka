@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Sidswipe
+# Hi 👋, I'm Sidswipe
 I'm a passionate Full Stack Developer who loves solving problems with codes and building awesome projects. Welcome to my GitHub profile!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?label=Follow&style=social)](https://twitter.com/sidswipe)
