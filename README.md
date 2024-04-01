@@ -1,12 +1,9 @@
 
 # Hi there 👋, I'm Sidswipe
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidneyEmeka)](https://github.com/SidneyEmeka/github-readme-stats)
 I'm a passionate Full Stack Developer who loves solving problems with codes and building awesome projects. Welcome to my GitHub profile!
 
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?label=Follow&style=social)](https://twitter.com/sidswipe)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://ng.linkedin.com/in/casmir-nnaemeka-473976245)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://ng.linkedin.com/in/ceze-nnaemeka)
 
 
 ## Skills
@@ -17,8 +14,11 @@ I'm a passionate Full Stack Developer who loves solving problems with codes and 
 - 📱 Responsive Web Design
 
 
+<img alt="My Stats" src ="https://github-readme-stats.vercel.app/api?username=SidneyEmeka&show_icons=true&theme=transparent"/>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyEmeka&layout=compact"/>
+
 ## Let's Connect
-Feel free to connect with me on [LinkedIn](https://ng.linkedin.com/in/casmir-nnaemeka-473976245) or [Twitter](https://twitter.com/sidswipe). I'm always open to collaborate!
+Feel free to connect with me on [LinkedIn](https://ng.linkedin.com/in/ceze-nnaemeka) or [Twitter](https://twitter.com/sidswipe). I'm always open to collaborate!
 
 
 ### Thanks for visiting! 🚀
