@@ -8,7 +8,7 @@ I'm a Developer who loves solving problems with codes and building awesome proje
 
 ## Skills
 - 💻 Full Stack Development
-- 🚀 C#/.NET | JavaScript | Dart
+- 🚀 C#/.NET | JavaScript | Dart | Flutter
 - 🌐 HTML | CSS | SASS | Bootstrap
 - ⚙️ Git | GitHub | VSCode
 
