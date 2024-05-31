@@ -10,7 +10,7 @@ I'm a Developer who loves solving problems with codes and building awesome proje
 - 💻 Full Stack Development
 - 🚀 C#/.NET | JavaScript | Dart | Flutter
 - 🌐 HTML | CSS | SASS | Bootstrap
-- ⚙️ Git | GitHub | VSCode
+- ⚙️ VSCode | 
 
 
 <img alt="My Stats" align="left" width="49%" src ="https://github-readme-stats.vercel.app/api?username=SidneyEmeka&show_icons=true&theme=transparent"/>
