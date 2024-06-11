@@ -4,7 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SidneyEmeka&theme=onedark" alt="SidneyEmeka" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sidswipe" target="blank"><img src="https://img.shields.io/twitter/follow/sidswipe?logo=twitter&style=for-the-badge" alt="SidneyEmeka" /></a> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?label=Follow&style=social)](https://twitter.com/sidswipe)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://ng.linkedin.com/in/ceze-nnaemeka)
 
 ---
 
@@ -15,9 +16,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyEmeka&theme=onedark" alt="yczar" /></p>
 
 ---
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?label=Follow&style=social)](https://twitter.com/sidswipe)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://ng.linkedin.com/in/ceze-nnaemeka)
 
 
 
