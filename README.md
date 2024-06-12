@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sidswipe</h1>
 <h3 align="center">I'm a Developer who loves solving problems with codes and building awesome projects. Welcome to my GitHub profile!</h3>
----
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SidneyEmeka&theme=onedark" alt="SidneyEmeka" /></a> </p>
 
 ---
