@@ -30,7 +30,6 @@ In my projects, you'll find a range of Flutter apps and libraries that showcase 
 
 If you have any questions or just want to chat about Website and Mobile App development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
 
-<h3 align="left">Connect with me:</h3>
 
 
 
