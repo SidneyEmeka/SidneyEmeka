@@ -17,19 +17,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SidneyEmeka&show_icons=true&locale=en&theme=onedark" alt="SidneyEmeka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyEmeka&theme=onedark" alt="yczar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyEmeka&theme=onedark" alt="sidneyemeka" /></p>
 
 ---
 
-
-![Screenshot Capture - 2024-06-10 - 09-57-13](https://github.com/SidneyEmeka/sidswipe/assets/100122510/c09ce988-6de1-48c9-80c7-812e9b045810)
-
-![Screenshot Capture - 2024-06-10 - 10-37-41](https://github.com/SidneyEmeka/sidswipe/assets/100122510/f91e46ed-1691-45ad-ae3b-10e44162bc78)
-
-![Screenshot Capture - 2024-06-10 - 10-38-03](https://github.com/SidneyEmeka/sidswipe/assets/100122510/82833ceb-c89e-4cdc-a189-5fe396d6f674)
-
-
----
 
 Hello and welcome to my GitHub profile! My name is Nnaemeka Casmir(Sidswipe) and I am a Mobile app developer.
 
