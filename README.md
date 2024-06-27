@@ -17,7 +17,33 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SidneyEmeka&show_icons=true&locale=en&theme=onedark" alt="SidneyEmeka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyEmeka&theme=onedark" alt="sidneyemeka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyEmeka&theme=onedark" alt="sidneyemeka" /></p> <br>
+<h2 align="center">Mobile Apps</h2>
+
+
+<table>
+	<tbody width="100%">
+	<tr>
+			<th>Wecast</th>	
+		</tr>
+		<tr>
+			<td>
+			<img src="https://github.com/SidneyEmeka/Wecast/blob/master/assets/images/wecast.gif" alt="Home"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				🔗 <a href="https://github.com/SidneyEmeka/Wecast">Repo</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+
+
+
 
 ---
 
