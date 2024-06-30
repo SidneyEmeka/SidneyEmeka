@@ -28,7 +28,7 @@
 		</tr>
 		<tr>
 			<td>
-			<img src="https://github.com/SidneyEmeka/Wecast/blob/master/assets/images/wecast.gif" alt="Home"></img>
+			<img src="https://github.com/SidneyEmeka/Wecast/blob/master/assets/images/snippet.gif" alt="Home"></img>
 			</td>
 		</tr>
 		<tr>
