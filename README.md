@@ -47,12 +47,11 @@
 
 ---
 
-
-Hello and welcome to my GitHub profile! My name is Nnaemeka Casmir(Sidswipe) and I am a Mobile app developer.
+My name is Nnaemeka Casmir(Sidswipe) and I am a Mobile app(IOS/Andriod) developer.
 
 I have always been drawn to the power and potential of technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
 
-In my projects, you'll find a range of Flutter apps and libraries that showcase my skills and interests. From utility tools to beautifully designed user interfaces, I am constantly pushing myself to learn and create new things with Flutter.
+In my projects, you'll find a range of Flutter apps and algorithmic logics that showcase my skills and interests. From utility tools to beautifully designed user interfaces, I am constantly pushing myself to learn and create new things with Flutter.
 
 If you have any questions or just want to chat about Website and Mobile App development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
 
