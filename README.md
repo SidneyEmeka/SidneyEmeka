@@ -21,7 +21,7 @@
 <h2 align="center">Mobile Apps</h2>
 
 
-<table>
+<table align="center">
 	<tbody width="100%">
 	<tr>
 			<th>Wecast</th>	
