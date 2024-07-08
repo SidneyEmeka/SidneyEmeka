@@ -13,7 +13,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SidneyEmeka&show_icons=true&locale=en&layout=compact&theme=onedark" alt="SidneyEmeka" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SidneyEmeka&show_icons=true&locale=en&layout=compact&theme=onedark" alt="SidneyEmeka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SidneyEmeka&show_icons=true&locale=en&theme=onedark" alt="SidneyEmeka" /></p>
 
@@ -29,7 +29,7 @@
 		</tr>
 		<tr>
 			<td>
-			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/wecast/snippet.gif" alt="Wecast Snippet"></img>
+			<img width="30%" src="https://github.com/SidneyEmeka/myfiles/blob/master/wecast/snippet.gif" alt="Wecast Snippet"></img>
 			</td>
 	<td>
 			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/calculator/snippet.gif" alt="Calculator Snippet"></img>
