@@ -24,16 +24,23 @@
 <table align="center">
 	<tbody width="100%">
 	<tr>
-			<th>Wecast</th>	
+			<th>Wecast</th>
+		<th>Calculator</th>
 		</tr>
 		<tr>
 			<td>
-			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/wecast/snippet.gif" alt="Snippet"></img>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/wecast/snippet.gif" alt="Wecast Snippet"></img>
+			</td>
+	<td>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/calculator/snippet.gif" alt="Calculator Snippet"></img>
 			</td>
 		</tr>
 		<tr>
 			<td>
 				🔗 <a href="https://github.com/SidneyEmeka/Wecast">Repo</a>
+			</td>
+			<td>
+				🔗 <a href="https://github.com/SidneyEmeka/calculator">Repo</a>
 			</td>
 		</tr>
 	</tbody>
