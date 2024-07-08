@@ -29,10 +29,10 @@
 		</tr>
 		<tr>
 			<td>
-			<img width="40%" src="https://github.com/SidneyEmeka/myfiles/blob/master/wecast/snippet.gif" alt="Wecast Snippet"></img>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/wecast/snippet.gif" alt="Wecast Snippet"></img>
 			</td>
 	<td>
-			<img width="60%" src="https://github.com/SidneyEmeka/myfiles/blob/master/calculator/snippet.gif" alt="Calculator Snippet"></img>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/calculator/snippet.gif" alt="Calculator Snippet"></img>
 			</td>
 		</tr>
 		<tr>
