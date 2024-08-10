@@ -21,8 +21,8 @@
 <h2 align="center">Mobile Apps</h2>
 
 
-<table align="center">
-	<tbody width="100%">
+<table >
+	<tbody >
 	<tr>
 			<th>Wecast</th>
 		<th>Calculator</th>
