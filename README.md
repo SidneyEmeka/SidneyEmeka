@@ -21,12 +21,11 @@
 <h2 align="center">Mobile Apps</h2>
 
 
-<table >
-	<tbody >
+<table align="center">
+	<tbody width="100">
 	<tr>
 			<th>Wecast</th>
 		<th>Calculator</th>
-		<th>Write</th>
 		</tr>
 		<tr>
 			<td>
@@ -34,9 +33,6 @@
 			</td>
 	<td>
 			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/calculator/snippet.gif" alt="Calculator Snippet"></img>
-			</td>
-	<td>
-			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/write/snippet.gif" alt="Snippet"></img>
 			</td>
 		</tr>
 		<tr>
@@ -46,6 +42,20 @@
 			<td>
 				🔗 <a href="https://github.com/SidneyEmeka/calculator">Repo</a>
 			</td>
+		</tr>
+	</tbody>
+</table>
+<table align="center">
+	<tbody width="100%">
+	<tr>
+			<th>Preview</th>	
+		</tr>
+		<tr>
+			<td>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/write/snippet.gif" alt="Snippet"></img>
+			</td>
+		</tr>
+		<tr>
 			<td>
 				🔗 <a href="https://github.com/SidneyEmeka/write">Repo</a>
 			</td>
