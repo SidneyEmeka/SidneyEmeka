@@ -26,6 +26,7 @@
 	<tr>
 			<th>Wecast</th>
 		<th>Calculator</th>
+		<th>Write</th>
 		</tr>
 		<tr>
 			<td>
@@ -34,6 +35,9 @@
 	<td>
 			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/calculator/snippet.gif" alt="Calculator Snippet"></img>
 			</td>
+	<td>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/write/snippet.gif" alt="Snippet"></img>
+			</td>
 		</tr>
 		<tr>
 			<td>
@@ -41,6 +45,9 @@
 			</td>
 			<td>
 				🔗 <a href="https://github.com/SidneyEmeka/calculator">Repo</a>
+			</td>
+			<td>
+				🔗 <a href="https://github.com/SidneyEmeka/write">Repo</a>
 			</td>
 		</tr>
 	</tbody>
