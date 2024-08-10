@@ -48,7 +48,7 @@
 <table align="center">
 	<tbody width="100%">
 	<tr>
-			<th>Preview</th>	
+			<th>Write</th>	
 		</tr>
 		<tr>
 			<td>
