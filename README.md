@@ -66,7 +66,6 @@
 			<td>
 				🔗 <a href="https://github.com/SidneyEmeka/Social-Media-App">Repo</a>
 			</td>
-			
 		</tr>
 	</tbody>
 </table>
