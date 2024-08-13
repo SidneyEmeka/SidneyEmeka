@@ -48,17 +48,25 @@
 <table align="center">
 	<tbody width="100%">
 	<tr>
-			<th>Write</th>	
+			<th>Write</th>
+		<th>Twitter UI</th>
 		</tr>
 		<tr>
 			<td>
 			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/write/snippet.gif" alt="Snippet"></img>
+			</td>
+	<td>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/twitter/snippet.gif" alt="Snippet"></img>
 			</td>
 		</tr>
 		<tr>
 			<td>
 				🔗 <a href="https://github.com/SidneyEmeka/write">Repo</a>
 			</td>
+			<td>
+				🔗 <a href="https://github.com/SidneyEmeka/Social-Media-App">Repo</a>
+			</td>
+			
 		</tr>
 	</tbody>
 </table>
