@@ -20,7 +20,23 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyEmeka&theme=onedark" alt="sidneyemeka" /></p> <br>
 <h2 align="center">Mobile Apps</h2>
 
-
+<table align="center">
+	<tbody width="100">
+	<tr>
+			<th>Furniture Store App</th>
+		</tr>
+		<tr>
+			<td>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/vendo/snippet.gif" alt="Wecast Snippet"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				🔗 <a href="https://github.com/SidneyEmeka/vendo">Repo</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 <table align="center">
 	<tbody width="100">
 	<tr>
