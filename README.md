@@ -26,13 +26,21 @@
 			<th>Furniture Store App</th>
 		</tr>
 		<tr>
+			<th>Recipe App</th>
+		</tr>
 			<td>
 			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/vendo/snippet.gif" alt="Wecast Snippet"></img>
+			</td>
+	<td>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/recipedia/snippet.gif" alt="Reecipedia Snippet"></img>
 			</td>
 		</tr>
 		<tr>
 			<td>
 				🔗 <a href="https://github.com/SidneyEmeka/vendo">Repo</a>
+			</td>
+			<td>
+				🔗 <a href="https://github.com/SidneyEmeka/recipedia">Repo</a>
 			</td>
 		</tr>
 	</tbody>
