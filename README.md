@@ -24,8 +24,6 @@
 	<tbody width="100">
 	<tr>
 			<th>Furniture Store App</th>
-		</tr>
-		<tr>
 			<th>Recipe App</th>
 		</tr>
 			<td>
