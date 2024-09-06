@@ -30,7 +30,7 @@
 			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/vendo/snippet.gif" alt="Wecast Snippet"></img>
 			</td>
 	<td>
-			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/recipedia/snippet.gif" alt="Reecipedia Snippet"></img>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/recipedia/snipp.gif" alt="Reecipedia Snippet"></img>
 			</td>
 		</tr>
 		<tr>
