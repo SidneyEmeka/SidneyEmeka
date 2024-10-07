@@ -15,7 +15,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SidneyEmeka&show_icons=true&locale=en&layout=compact&theme=onedark" alt="SidneyEmeka" /></p>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SidneyEmeka&show_icons=true&locale=en&theme=onedark" alt="SidneyEmeka" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SidneyEmeka&show_icons=true&locale=en&theme=onedark" alt="SidneyEmeka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyEmeka&theme=onedark" alt="sidneyemeka" /></p> <br>
 <h2 align="center">Mobile Apps</h2>
