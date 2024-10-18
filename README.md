@@ -23,6 +23,30 @@
 <table align="center">
 	<tbody width="100">
 	<tr>
+			<th>Event Booking App</th>
+			<th>Onboarding</th>
+		</tr>
+			<td>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/clubon/clubononboard.gif" alt="Clubon Snippet"></img>
+			</td>
+	<td>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/clubon/clubon.gif" alt="Clubon Snippet"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				🔗 <a href="https://github.com/SidneyEmeka">Private Repo</a>
+			</td>
+			<td>
+				🔗 <a href="https://github.com/SidneyEmeka">Private  Repo</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center">
+	<tbody width="100">
+	<tr>
 			<th>Furniture Store App</th>
 			<th>Recipe App</th>
 		</tr>
