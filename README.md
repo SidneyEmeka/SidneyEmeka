@@ -23,8 +23,8 @@
 <table align="center">
 	<tbody width="100">
 	<tr>
-			<th>Event Booking App</th>
 			<th>Onboarding</th>
+			<th>Event Booking App</th>
 		</tr>
 			<td>
 			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/clubon/clubononboard.gif" alt="Clubon Snippet"></img>
