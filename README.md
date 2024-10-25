@@ -27,10 +27,10 @@
 			<th>Event Booking App</th>
 		</tr>
 			<td>
-			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/clubon/clubononboard.gif" alt="Clubon Snippet"></img>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/clubon/onboard.gif" alt="Clubon Snippet"></img>
 			</td>
 	<td>
-			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/clubon/clubon.gif" alt="Clubon Snippet"></img>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/clubon/clubon1.gif" alt="Clubon Snippet"></img>
 			</td>
 		</tr>
 		<tr>
