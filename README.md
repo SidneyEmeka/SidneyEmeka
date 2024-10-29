@@ -35,10 +35,10 @@
 		</tr>
 		<tr>
 			<td>
-				🔗 <a href="https://github.com/SidneyEmeka">Private Repo</a>
+				🔗 <a href="https://github.com/SidneyEmeka/myfiles/blob/master/private.md">Private Repo</a>
 			</td>
 			<td>
-				🔗 <a href="https://github.com/SidneyEmeka">Private  Repo</a>
+				🔗 <a href="https://github.com/SidneyEmeka/myfiles/blob/master/private.md">Private  Repo</a>
 			</td>
 		</tr>
 	</tbody>
@@ -60,10 +60,10 @@
 		</tr>
 		<tr>
 			<td>
-				🔗 <a href="https://github.com/SidneyEmeka">Private Repo</a>
+				🔗 <a href="https://github.com/SidneyEmeka/myfiles/blob/master/private.md">Private Repo</a>
 			</td>
 			<td>
-				🔗 <a href="https://github.com/SidneyEmeka">Private  Repo</a>
+				🔗 <a href="https://github.com/SidneyEmeka/myfiles/blob/master/private.md">Private  Repo</a>
 			</td>
 		</tr>
 	</tbody>
