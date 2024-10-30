@@ -35,10 +35,10 @@
 		</tr>
 		<tr>
 			<td>
-				🔗 <a href="https://github.com/SidneyEmeka/myfiles/blob/master/private.md">Private Repo</a>
+				🔗 <a href="https://x.com/sidswipe/status/1851591856854835574?s=46">Tweet</a>
 			</td>
 			<td>
-				🔗 <a href="https://github.com/SidneyEmeka/myfiles/blob/master/private.md">Private  Repo</a>
+				🔗 <a href="https://x.com/sidswipe/status/1851591856854835574?s=46">Tweet</a>
 			</td>
 		</tr>
 	</tbody>
