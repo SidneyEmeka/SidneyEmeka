@@ -24,7 +24,7 @@
 	<tbody width="100">
 	<tr>
 			<th>Onboarding</th>
-			<th>Web3 Trading App</th>
+			<th>Crypto Trading App</th>
 		</tr>
 			<td>
 			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/jollof/jollofonboard.gif" alt="Jollof Snippet"></img>
