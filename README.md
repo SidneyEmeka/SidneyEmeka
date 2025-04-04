@@ -52,10 +52,10 @@
 			<th>Dark Mode</th>
 		</tr>
 			<td>
-			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/jollof/light.gif" alt="Etugora Snippet"></img>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/etugoras/light.gif" alt="Etugora Snippet"></img>
 			</td>
 	<td>
-			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/jollof/dark.gif" alt="Etugora Snippet"></img>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/etugoras/dark.gif" alt="Etugora Snippet"></img>
 			</td>
 		</tr>
 		<tr>
