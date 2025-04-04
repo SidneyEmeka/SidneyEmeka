@@ -44,6 +44,33 @@
 	</tbody>
 </table>
 
+
+<table align="center">
+	<tbody width="100">
+	<tr>
+			<th>Light Mode</th>
+			<th>Dark Mode</th>
+		</tr>
+			<td>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/jollof/light.gif" alt="Etugora Snippet"></img>
+			</td>
+	<td>
+			<img src="https://github.com/SidneyEmeka/myfiles/blob/master/jollof/dark.gif" alt="Etugora Snippet"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				🔗 <a href="https://x.com/sidswipe">Tweet</a>
+			</td>
+			<td>
+				🔗 <a href="https://x.com/sidswipe">Tweet</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
 <table align="center">
 	<tbody width="100">
 	<tr>
